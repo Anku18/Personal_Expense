@@ -2,15 +2,22 @@
 
 A new Flutter project.
 
-## Getting Started
+## Home Page
+<img src="https://user-images.githubusercontent.com/105160971/187032447-1a62d304-d984-4555-88e3-f0182c18abce.jpg" width="200" height="400" />
+<br>
+<br>
+<br>
 
-This project is a starting point for a Flutter application.
+## Add Expenses Page
+<img src="https://user-images.githubusercontent.com/105160971/187032455-cad96722-c177-4ad2-8fc2-551a2ad72516.jpg" width="200" height="400" />
+<br>
+<br>
+<br>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 
+<img src="https://user-images.githubusercontent.com/105160971/187032457-75874a79-20ea-4594-b3d5-6503caa9177f.jpg" width="200" height="400" />
+<br>
+<br>
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
